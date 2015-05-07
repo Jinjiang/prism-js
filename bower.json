@@ -17,7 +17,7 @@
   "dependencies": {
     "prism": "*",
     "he": "~0.3.6",
-    "polymer": "Polymer/polymer#~0.3.5",
-    "core-input": "Polymer/core-input#~0.3.5"
+    "polymer": "~0.5.0",
+    "core-input": "Polymer/core-input"
   }
 }
